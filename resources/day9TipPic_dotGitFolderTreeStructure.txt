@@ -1,0 +1,65 @@
+A:\21Days21TipsOf2025>tree /A /F .git
+Folder PATH listing for volume New Volume
+Volume serial number is 6897-5B0A
+A:\21DAYS21TIPSOF2025\.GIT
+|   COMMIT_EDITMSG
+|   config
+|   description
+|   HEAD
+|   index
+|
++---hooks
+|       applypatch-msg.sample
+|       commit-msg.sample
+|       fsmonitor-watchman.sample
+|       post-update.sample
+|       pre-applypatch.sample
+|       pre-commit.sample
+|       pre-merge-commit.sample
+|       pre-push.sample
+|       pre-rebase.sample
+|       pre-receive.sample
+|       prepare-commit-msg.sample
+|       push-to-checkout.sample
+|       sendemail-validate.sample
+|       update.sample
+|
++---info
+|       exclude
+|
++---logs
+|   |   HEAD
+|   |
+|   \---refs
+|       +---heads
+|       |       draftingv1
+|       |       Week2Tips
+|       |
+|       \---remotes
+|           \---origin
+|                   draftingv1
+|                   Week2Tips
+|
++---objects
+|   +---02
+|   |       fbe8c49608b8f72dde0eb3ea00bbecac4b8c29
+|   |
+|   +---04
+|   |       342942872b638c262f9aec527e0094aca9394d
+|   |
+|   +---06
+|   |       3351a46e0e42c72543a78f38e46ab6886d49f2
+|   |
+|   +---info
+|   \---pack
+\---refs
+    +---heads
+    |       draftingv1
+    |       Week2Tips
+    |
+    +---remotes
+    |   \---origin
+    |           draftingv1
+    |           Week2Tips
+    |
+    \---tags
